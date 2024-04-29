@@ -1,5 +1,10 @@
 # Gigex: Freelance Services Marketplace 
 
+## [Video Link](https://www.veed.io/view/da3567ab-1159-490b-9a97-a833ea682337?panel=share)
+## [Frontend Deployment Link](https://gigex-react.vercel.app/)
+## [Backend Deployment Link](https://gigex-api.onrender.com/)
+## [Figma Design](https://www.figma.com/file/C1c85stSn9AQy5k0mSNbzA/Gigex-by-Jyotiraditya-Singh?type=design&node-id=0%3A1&mode=design&t=ildu2ePMVmb7zAKJ-1)
+## [API Documentation](https://documenter.getpostman.com/view/31060564/2s9YymJ5Ln)
 
 ## Introduction:
 Gigex is a comprehensive MERN Stack-powered Freelance Services Marketplace, designed to connect talented freelancers with clients seeking top-notch services. With a user-friendly interface and a robust set of features, Gigex ensures a seamless experience for both freelancers and clients.
